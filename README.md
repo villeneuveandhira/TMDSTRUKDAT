@@ -26,11 +26,13 @@ misalkan contoh masukan berikut:<br />
 <br />
 14 adalah jumlah semua simpul pohon.<br />
 maka pohonnya:<br />
+
 ![image](https://github.com/villeneuveandhira/TMDSTRUKDAT/assets/101118033/f3f19017-18af-4e28-b38d-86aed3e055e6)
 
 <br />
 Pohon yang ditampilkan adalah pohon lengkap, kemudian menampilkan pohon setelah penghapusan produk yang penjualannya kurang baik sehingga<br />
 yang dihapus adalah yang penjualannya lebih rendah dari masukan.<br />
+
 ![image](https://github.com/villeneuveandhira/TMDSTRUKDAT/assets/101118033/0c6d317d-e273-437d-9fc4-650e1b404a74)
 
 ![image](https://github.com/villeneuveandhira/TMDSTRUKDAT/assets/101118033/98dd4b05-7b25-4745-8bfa-cdb17c4fc926)
